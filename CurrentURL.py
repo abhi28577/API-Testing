@@ -6,7 +6,7 @@ Created on Tue Feb 20 20:18:17 2018
 @author: abhi28577
 """
 
-# Getting Current URL
+# Getting Current URL State
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
